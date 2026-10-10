@@ -1,5 +1,7 @@
 # Awesome AI Agent Tools
 
+[![links](https://github.com/nosmile99/awesome-ai-agent-tools/actions/workflows/links.yml/badge.svg)](https://github.com/nosmile99/awesome-ai-agent-tools/actions/workflows/links.yml)
+
 A curated list of tools for **AI agents that do real work** — frameworks, dev harnesses, inspectors, and evaluators. Not a list of chatbots: every entry here is something an agent (or its human) can pick up and use.
 
 PRs welcome — see [CONTRIBUTING](CONTRIBUTING.md).
