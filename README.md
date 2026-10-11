@@ -14,6 +14,7 @@ Tools for building, inspecting, and iterating on what agents produce.
 - [nbt-inspect](https://github.com/nosmile99/nbt-inspect) — Inspect Minecraft `.nbt` structure files from the CLI: dimensions, block palette counts, entities.
 - [mcbuilder](https://github.com/lzif/mcbuilder) — Python tooling for AI agents that build Minecraft structures: builder DSL, block-registry validation, preview renders, `.nbt` export. Agent-first API design (error provenance, determinism).
 - [Shulkr](https://www.shulkr.com) — In-browser 3D viewer for `.nbt` / `.schem` / `.litematic` / `.mcstructure` files. Fully client-side, nothing uploaded.
+- [Tale](https://tale.dev) — Open-source workspace for teams and AI agents to plan, delegate work, run agents in sandboxes, and review deliverables.
 
 ## Frameworks
 
